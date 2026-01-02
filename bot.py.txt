@@ -4,8 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.fsm.storage.memory import MemoryStorage
 
-# Получаем токен из Environment
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8350573268:AAG3jFDklUBVHdz9gl2R5CeKRTJ68yl_JRI")
 if not BOT_TOKEN:
     raise ValueError("Добавьте BOT_TOKEN в Environment Variables!")
 
