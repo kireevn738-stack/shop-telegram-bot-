@@ -1,6 +1,0 @@
-BOT_TOKEN = "8350573268:AAG3jFDklUBVHdz9gl2R5CeKRTJ68yl_JRI"
-
-DATABASE_URL = "sqlite+aiosqlite:///db.sqlite3"
-
-
-EMAIL_FROM = "no-reply@example.com"
